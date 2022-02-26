@@ -1,0 +1,3 @@
+#admin用户在登录时也是使用post请求 所以要确保admin用户在post请求白名单中
+auth_user
+admin
